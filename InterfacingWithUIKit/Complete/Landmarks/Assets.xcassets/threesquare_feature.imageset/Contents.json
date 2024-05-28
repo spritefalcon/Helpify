@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "2aa2949f-dcb3-4dc1-ae0a-053139b7b6d5-large16x9_thumbnail_ThreeSquareOrangeMan1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
